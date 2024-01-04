@@ -1,0 +1,36 @@
+{
+  "name": "smart-learning-assistant",
+  "version": "1.0.0",
+  "description": "A web-based application that leverages the OpenAI API to provide a personalized learning experience.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/smart-learning-assistant.git"
+  },
+  "keywords": [
+    "OpenAI",
+    "GPT-3",
+    "learning",
+    "education",
+    "AI"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/smart-learning-assistant/issues"
+  },
+  "homepage": "https://github.com/yourusername/smart-learning-assistant#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "dotenv": "^10.0.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

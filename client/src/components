@@ -1,0 +1,64 @@
+```javascript
+// File: client/src/components/HomePage.js
+import React from 'react';
+
+function HomePage() {
+  return (
+    <div>
+      <h1>Welcome to Smart Learning Assistant</h1>
+      {/* Add more content here */}
+    </div>
+  );
+}
+
+export default HomePage;
+```
+
+```javascript
+// File: client/src/components/TopicPage.js
+import React from 'react';
+
+function TopicPage() {
+  return (
+    <div>
+      <h1>Topic Page</h1>
+      {/* Add more content here */}
+    </div>
+  );
+}
+
+export default TopicPage;
+```
+
+```javascript
+// File: client/src/components/PracticePage.js
+import React from 'react';
+
+function PracticePage() {
+  return (
+    <div>
+      <h1>Practice Page</h1>
+      {/* Add more content here */}
+    </div>
+  );
+}
+
+export default PracticePage;
+```
+
+```javascript
+// File: client/src/components/ProgressPage.js
+import React from 'react';
+
+function ProgressPage() {
+  return (
+    <div>
+      <h1>Progress Page</h1>
+      {/* Add more content here */}
+    </div>
+  );
+}
+
+export default ProgressPage;
+```
+

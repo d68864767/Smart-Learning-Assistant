@@ -1,0 +1,52 @@
+name:$client/src/styles/index.css
+
+```css
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Add more global styles as needed */
+```
+
+name:$client/src/styles/App.css
+
+```css
+.App {
+  text-align: center;
+}
+
+/* Add more styles for your App component as needed */
+```
+
+name:$client/src/styles/HomePage.css
+
+```css
+/* Add styles for your HomePage component here */
+```
+
+name:$client/src/styles/TopicPage.css
+
+```css
+/* Add styles for your TopicPage component here */
+```
+
+name:$client/src/styles/PracticePage.css
+
+```css
+/* Add styles for your PracticePage component here */
+```
+
+name:$client/src/styles/ProgressPage.css
+
+```css
+/* Add styles for your ProgressPage component here */
+```
+
